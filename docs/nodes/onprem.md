@@ -126,6 +126,7 @@ Node classes list of onprem provider.
 - **diagrams.onprem.iac.Awx**
 - **diagrams.onprem.iac.Puppet**
 - **diagrams.onprem.iac.Terraform**
+- **diagrams.onprem.iac.Terragrunt**
 
 ## onprem.identity
 
