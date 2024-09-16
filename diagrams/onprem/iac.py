@@ -28,4 +28,7 @@ class Terraform(_Iac):
     _icon = "terraform.png"
 
 
+class Terragrunt(_Iac):
+    _icon = "terragrunt.png"
+
 # Aliases
